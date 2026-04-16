@@ -26,3 +26,7 @@ https://buffalony.iqm2.com/Citizens/Detail_LegiFile.aspx?ID=13074&highlightTerms
 Item 21-429: Rivera - Buffalo Police Reform Agenda (Late File)
 Approved?
 https://buffalony.iqm2.com/Citizens/Detail_LegiFile.aspx?Frame=&MeetingID=2231&MediaPosition=&ID=13947&CssClass=
+
+Item 24-2095: M. Austin, SAS Institute Use of Fore Dataset
+Received and Filed Dec 10, 2024 2:00 PM
+https://buffalony.iqm2.com/Citizens/Detail_LegiFile.aspx?ID=26296&highlightTerms=24-2095
